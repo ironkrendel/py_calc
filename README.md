@@ -1,4 +1,4 @@
-This is a very simple python calculator based on Tkinter library
+This is a very simple python calculator based on Tkinter library.
 Calculator can calculate in right order of operations
 
 Known bugs:
